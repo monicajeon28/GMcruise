@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cruisedot-478810",
+  "private_key_id": "20bf2e8f57dd0e89afec854c7b36977f6b114ce7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC3ocieialo9oSe\nZZfHLnH/GkWXeRFW8qbZFk4/vI9sBLfq5/eDzCAI8o9HZdBw2oJCZXhu6BPD930K\nqhcBN/XkpsHA5HsIuNsO9kBNWD3nCiCNTgHZzacWjGqjm5QVYUu0nZ5P5rvCvA0r\nt3LqgZ+C3oPHkbtC5oLyR+QhYUHxo+2+Yc1JJkWDaASo5AvRnGgSsIguREdQ9EnW\n9jonQOL1AbflbeaaWjaLkZb4GTUGsWlZXDb7elFdr9pJ1x26W90SyM5NUdEvduSa\nqV+37GuYSH1qHzFTA/UW0UD4AVMSZ1eBBR9tCFPrMtpANhWu+hV3x7j0rQBIMZYG\nyOWcIj+dAgMBAAECggEAEbdCAPQ3ATFcn2DIa9Gcnd04VDdnPNmGz0V09yEx6lyU\n1yIvTD/SjLUaAuwHrVuSBZB/NfPzNDdu5isoB64RGFDI5dslI4pHWAIvN0cJcdNq\n9eGjZr04dCxyfVDyexLlQt+R+RNsOd/6mqUa07+oVpqGYX07G7vcFj5pUURuID8O\nheo9Ffriby1liTAC/7fncOh5SEjFrUor7ULSGcWcyzxUjys9JK7IainU9HzX+jYk\nEhRpsa7OaqqlmJ5czkfa19wu7BrNAEZtIVMKhFI1qDMJ+YCouqlobvW0JRy4PZZ/\nO/EhZX6a/A12DoNJQhwHE4vqol7gy78vwIimUetI4QKBgQDnscK8ULcUh6SDi7yF\nYlQZXNZsZaWoqgiXiwYNHKZmfndBiL1jVm0ycyAs/KdFhnI9uEUTObreReK3UK0l\n5BsvSW8eQqSWNq0R3jV89fhyz1TtfiB7WUKoOmhN+Cyp3cQpArSYWc7xEbqOPcXR\n/594yAwS4fXTWZi8ozJZQw5AVwKBgQDK5Un4qwUlkB+FYdDDO8VDqhYo7Ow5xv6K\nzVaqpF3Bo2lSzkiT5WZio9nbotXzwAapuxeG1/g9DDSQAAWT/cwh3gMk2uIzEsdW\nQVvCt0nWPpyqTIXM8m85hOuvS5dwwEujODn2IBKa4w+x/U88BDipOnaDRIl7wLXA\ndX67pLN3KwKBgQC4knN/cQ1n3WbBJGBaIaq9SafHUnJVmp6dmrKHX3tvyu9V1YiJ\nyh/TQMMxE1Rtnl0DrffZCPREfYfOYQaOWNkPIoDSqmRTBdt5kHsrwQba7y/IweE+\nYi0ntt/AvSNXbsMFqJIVi/W/NVBYX/1m/SwdG8ACit86LvXt0FQbp7+CoQKBgQCH\nG6JjdbbKqatjzZwPteiJQ2TYQdSYMNvloBD7NtK8FE4ZdwY7fgHs44E6Ube5RgDp\n240yHPTP6iXCUlFkmBfr4YQkcaE5M2MMHB+3jQgdI7p9aNGchT/thIbRRzwEN/jm\nKpXmQLtC6rrT4oN1yrXUcvriNKx8fPpKu7L1zxo22wKBgQCzHN8NWxNvCcvs5oyw\nlS0UBVw75EKl0aHtnEcXTnHBmH+1Ht+NEuYwjSO1ouLGem1FRsE+vs/Y6AciSA2B\n5VBsFJhH77kSEuVRi9vCnIi2nEykynJl989B53kzzAk07Q7H9DL1aNZPEwdqlW/Q\nNQaF/h9r2T7RuzpFPOXCk9uuiw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "cruisedot@cruisedot-478810.iam.gserviceaccount.com",
+  "client_id": "106337734087449999779",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cruisedot%40cruisedot-478810.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
